@@ -97,7 +97,7 @@ settings.experimental.header Experimental
 settings.experimental.aimFreezeFix Arreglo de congelamiento al apuntar
 settings.experimental.mouseFlickFix Arreglo de Mouse Flick
 settings.experimental.shaderRendering Renderización de Instancias
-settings.dev.header Desarrollador
+settings.dev.header Derrollador
 settings.dev.forceUpdate Forzar Actualización de Skins
 settings.dev.forceRegen Siempre Regenerar al Jugador
 settings.dev.extraBan Información Extra de Baneo
@@ -519,7 +519,7 @@ windows.store.purchasing Comprando...
 windows.store.unboxed {0}{1} abrió
 windows.trade.header Trading
 windows.scope.header Seleccionar Mira
-windows.premium.header Premiun
+windows.premium.header Premium
 windows.skin.header Seleccione Skin
 windows.hat.header Seleccione sombrero
 windows.back.header Seleccione accesorio de espalda
@@ -632,11 +632,11 @@ server.config.bDrop Caída de bala
 server.config.thirdPerson Tercera persona
 server.config.requireCaptcha Requiere captcha
 server.config.nameTags Ocultar nombres
-server.config.kCams Kill Cams
+server.config.kCams Camaras de Muerte
 server.config.noReload No recargar
 server.config.private Privado
 server.config.krRewards Recompensas de KR
-server.config.forceDefault Force Default Settings
+server.config.forceDefault Forzar configuraciones por Defecto
 server.config.warmupTime Tiempo de calentamiento
 server.config.objtvTime Tiempo de Objetivo
 server.config.forceSpawn Tiempo de reaparición automática
@@ -690,58 +690,58 @@ social.market.filter Buscar
 social.market.sort2 Ordenar
 social.market.price.high Precio más alto
 social.trading.submitting Enviando oferta...
-social.market.gift.amount Cantidad a regalar en
+social.market.gift.amount Cantidad de KR A Regalar
 social.market.fee.gift Sin cuota
 social.market.gift Regalar KR
 social.market.gift.msg Dejar un mensaje
-respawn.auto Auto Respawning in {0}
-custom.host.ranked Can't host match while in ranked.
-funds.insufficient Insufficient Funds
-funds.out It appears you have run out of Krunkies.
-custom.passcode.long Password too long
-custom.passcode.input Enter Server Password to join
-custom.tryagain Please try again.
-purchase.kr.success Added {0} KR to your account
-limited.purchase.ask Are you sure you want to purchase [{0}] for {1} KR?
-limited.purchase.success Added {0} to your inventory
-pretend.exit press [{0}] again to exit
-settings.loaded Settings Loaded
-settings.loaded.none No settings found
-account.login.required Must be logged in
-account.banned.hack This account has been banned for Hacking.
-account.banned.appeal If you want to appeal your ban, contact:
-account.delete You may request to delete your account, if the request is not cancelled within 14 days the account and all associated data will be permanently removed.
-account.delete.request Are you sure you want to request an account deletion?
-account.delete.cancel Are you sure you want to cancel account deletion?
-spin.free.available FREE KR AVAILABLE!
-spin.free.claim This spin is available to claim once per Hour after completing a match.
-spin.free.disable These Popups can be disabled in General Settings
-mod.reset.0 Will take effect after respawning.
-mod.reset.1 Map Objects dont get reset
-windows.profile.picture Change Picture
-stats.assists Assists
-stats.nukes Nukes
-stats.melee Melee
-stats.fistkills Beatdowns
-stats.thrownkills Bullseyes
-stats.headshots Headshots
+respawn.auto Auto Reaparición en {0}
+custom.host.ranked No se puede crear una partida mientras estas en Competitivo.
+funds.insufficient Fondos Insuficientes
+funds.out Parece que te has quedado sin Krunkies.
+custom.passcode.long Contraseña demasiado Larga.
+custom.passcode.input Introduce la contraseña del servidor para unirte.
+custom.tryagain Porfavor intenta Denuevo.
+purchase.kr.success Añadido {0} KR A tu Inventario.
+limited.purchase.ask Estas seguro de que quieres comprar [{0}] por {1} KR?
+limited.purchase.success Añadido {0} a tu Inventario
+pretend.exit Presiona {0} Denuevo para Salir.
+settings.loaded Settings Cargado.
+settings.loaded.none Ninguna configuración Encontrada.
+account.login.required Debes tener una Sesión Iniciada
+account.banned.hack Esta cuenta ha sido suspendida permanentemente por Trampas.
+account.banned.appeal Si quieres apelar tu suspención, Contacta:
+account.delete Puedes pedir que tu cuenta sea borrada, Si tu petición no es cancelada en un periodo de 14 dias la cuenta y todos los datos asociados seran borrados permanentemente.
+account.delete.request Estas seguro de pedir una peticion para borrar tu cuenta?
+account.delete.cancel Estas seguro de que quieres cancelar la petición para borrar tu cuenta?
+spin.free.available KR GRATIS DISPONIBLE!
+spin.free.claim Este spin solo se puede reclamar una hora despues de completar una partida.
+spin.free.disable Estos anuncios pueden ser desactivados en las configuraciones generales.
+mod.reset.0 Tomara efecto luego de reaparecer.
+mod.reset.1 Los objetos de mapas no se Resetean.
+windows.profile.picture Cambiar Imagen.
+stats.assists Asistencias.
+stats.nukes Nucleares.
+stats.melee Cuchillo
+stats.fistkills Bajas con Puños
+stats.thrownkills Bajas con cuchillo Arrojadizo
+stats.headshots Tiro en la Cabeza
 stats.wallbangs Wallbangs
-stats.sprays Sprays Placed
-windows.host.default.settings Enabling Default Settings allows for storing Player Progress and Highscores
-windows.host.default.commands *Host Commands are Disabled in this mode: /noclip /god /smite etc
-windows.host.rewards Enabling KR Rewards forces the Server to use Default Settings & allows players to earn KR from the map funds:
-windows.store.wheels.sub Try your luck and spin for a chance to win some new skins!
-windows.store.currency * Prices in USD can be converted to your local currency at an exchange rate defined by the payment provider or bank
-windows.store.creator Consider Support your favorite Content Creator by using a Creator Code
-windows.chall.customs Challenges can't be completed in Custom Matches
-twitch.link Are you sure you want to link a twitch account?
-twitch.unlink Are you sure you want to unlink your twitch account?
-windows.clan.leave Are you sure you want to leave the clan?
-windows.clan.delete Are you sure you want to delete the clan?
-windows.clan.kick Are you sure you want kick {0} from the clan?
-windows.store.premium.purchase Are you sure you want to purchase {0} days of Premium?
-windows.playerlist.ban Are you sure you want ban {0} from this game?
-windows.playerlist.flag Are you sure you want to Flag {0}?
-windows.playerlist.unflag Are you sure you want to Unflag {0}?
-windows.playerlist.punish Are you sure you want to take action on {0}?
+stats.sprays Sprays Puestos
+windows.host.default.settings Activando configuraciones por defecto ayuda a guardar el proceso de jugadores y Puntuaciones Altas
+windows.host.default.commands *Comandos de hosteo estan desactivados en este modo: /noclip /god /smite etc
+windows.host.rewards Activando Recompenzas de KR Forza al servidor a usar configuraciones por defecto y permite a los jugadores ganar recompenzas de los fondos del mapa:
+windows.store.wheels.sub Prueba tu suerte y gira para una chance de ganar nuevas Skins!
+windows.store.currency * Precios en USD pueden ser convertidos a tu moneda local en una tasa de cambio dependiendo de tu proveedor o banco.
+windows.store.creator Considera apoyar a tu creador de contenido favorito Usando un codigo de creador
+windows.chall.customs Los desafiós no se pueden completar en partidas customizadas.
+twitch.link Estas seguro de que quieres enlazar esta cuenta de twitch?
+twitch.unlink Estas seguro de que quieres des-enlazar esta cuenta de twitch?
+windows.clan.leave Estas seguro de que quieres abandonar este clan?
+windows.clan.delete Estas seguro de que quieres borrar este clan?
+windows.clan.kick Estas seguro de que quieres expulsar a {0} del clan?
+windows.store.premium.purchase Estas seguor de que quieres comprar {0} dias de Premium?
+windows.playerlist.ban Estas seguro de que quieres Banear {0} de esta partida?
+windows.playerlist.flag Estas seguro de que quieres Suspender a {0} ? 
+windows.playerlist.unflag Estas seguro de que quieres remover la suspención? {0}?
+windows.playerlist.punish Estas seguro de que quieres tomar acciones en {0}?
 `;
