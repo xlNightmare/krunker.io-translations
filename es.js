@@ -743,5 +743,5 @@ windows.store.premium.purchase Are you sure you want to purchase {0} days of Pre
 windows.playerlist.ban Are you sure you want ban {0} from this game?
 windows.playerlist.flag Are you sure you want to Flag {0}?
 windows.playerlist.unflag Are you sure you want to Unflag {0}?
-windows.playerlist.punish Are you sure you want to take action on {0}?
+windows.playerlist.punish Are you sure you want to take action on {0}
 `;
